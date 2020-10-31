@@ -15,7 +15,6 @@
   "scripts": {
     "dev": "PORT=3002 react-scripts start",
     "build": "react-scripts build",
-    
     "start": "PORT=3002 serve build",
     "eject": "react-scripts eject"
   },
